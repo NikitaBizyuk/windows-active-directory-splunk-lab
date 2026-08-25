@@ -50,12 +50,6 @@ client machine to the domain.
 I verified the configuration by successfully authenticating to the
 Windows client using an Active Directory domain account.
 
-[Screenshot of Active Directory Users and Computers]
-![Active Directory Users and Organizational Units](active-directory-users.png)
-
-
-[Screenshot of successful domain login]
-
 ## Security Monitoring
 
 Sysmon was installed on Windows systems to provide additional endpoint
